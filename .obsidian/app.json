@@ -1,4 +1,9 @@
 {
   "readableLineLength": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "legacyEditor": true,
+  "fileSortOrder": "byCreatedTimeReverse"
 }
