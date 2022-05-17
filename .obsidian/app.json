@@ -4,6 +4,6 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "defaultViewMode": "preview",
-  "legacyEditor": true,
+  "legacyEditor": false,
   "fileSortOrder": "byCreatedTimeReverse"
 }
