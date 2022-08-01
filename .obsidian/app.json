@@ -6,5 +6,6 @@
   "defaultViewMode": "preview",
   "legacyEditor": false,
   "fileSortOrder": "byCreatedTimeReverse",
-  "livePreview": true
+  "livePreview": true,
+  "newLinkFormat": "relative"
 }
